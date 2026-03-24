@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "AI Love Advisor - Free AI Relationship Coach | Dating Tips & Recovery",
+    "description": "Free AI love advisor for relationship analysis, chat coaching, breakup recovery, and date planning. Get instant, personalized advice for crushes, dating, and relationship challenges.",
+    "keywords": "AI love advisor,relationship coach,dating advice,breakup recovery,chat coaching,date planning,AI relationship counselor,love tips"
+  },
+  "nav": {
+    "title": "AI Love Advisor",
+    "subtitle": "Your Personal Relationship Coach"
+  },
+  "chat": {
+    "placeholder": "Tell me about your relationship situation...",
+    "send": "Send",
+    "thinking": "Advisor is thinking...",
+    "welcome": "Hi! I'm your AI Love Advisor 💕",
+    "welcomeDesc": "Whether it's a crush, dating, recovery, or everyday relationship issues, I'm here to help with thoughtful analysis and practical advice.",
+    "disclaimer": "AI advice is for reference only. Please consider important relationship decisions carefully."
+  },
+  "features": {
+    "analyze": "Analyze Feelings",
+    "analyzeDesc": "Analyze your interactions and find the issues",
+    "chat": "Chat Guidance",
+    "chatDesc": "Learn how to respond with emotional intelligence",
+    "recover": "Recovery Plan",
+    "recoverDesc": "Science-based recovery strategies",
+    "date": "Date Planning",
+    "dateDesc": "Date ideas, outfit tips, and conversation topics"
+  },
+  "quickStart": {
+    "title": "Quick Start",
+    "q1": "They won't reply to my messages?",
+    "q2": "How to tell if they like me?",
+    "q3": "What to talk about on a first date?",
+    "q4": "Is there hope after a breakup?"
+  },
+  "lang": {
+    "switch": "中文"
+  }
+}
